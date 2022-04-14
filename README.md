@@ -1,2 +1,2 @@
 # aula_bootstrap_dio
-Utilizando o bootstrap
+Site criado para aprender a utilizar o bootstrap no bootcamp da DIO
